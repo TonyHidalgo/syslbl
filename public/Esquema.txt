@@ -1,0 +1,18 @@
+Estudiantes
+	Nombres
+	Apellidos
+	Cedula
+	Año
+	Seccion
+
+
+Profesores
+	Nombres
+	Apellidos
+	Cedula
+	Materias
+	Años
+	Secciones
+
+	Direccion
+	Coordinacion
